@@ -36,3 +36,10 @@
 - git log --all --decorate --oneline --graph
 - git merge 브랜치명
 - git switch하고 해야함 내꺼에서 다른거 끌고 오고싶으면 내꺼에서 merge해야함
+
+- git branch "브랜치명"
+- git switch "브랜치명"
+- git checkout -b "브랜치명" 생성 후 이동
+- git checkout "브랜치명" 이동
+위에두개를 아래두개로도 할 수 있다.
+
